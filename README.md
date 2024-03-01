@@ -58,4 +58,4 @@ After experimenting with multiple machine learning models, including but not lim
 
 
 
-![Walmart_prediction](https://github.com/rajeshsingh123/Walmart_Sales_Prediction/assets/100190385/0c1ebd42-9ea9-4f5d-a010-c8d39c4d1f1f)
+
